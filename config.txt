@@ -1,4 +1,10 @@
+
 name = Dradanelcho, size = 11235, e-mail = drago@abv.bg
 name = Rostislav , e-mail = rostislav.kolev77@gmail.com1234
 
 az napiswam neshto razlichno
+=======
+name = Dradanelcho, size = 34325, e-mail = drago@abv.bg
+name = Rostislav , e-mail = rostislav.kolev77@gmail.com
+
+
