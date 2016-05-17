@@ -1,3 +1,3 @@
-name = Lencho, age = 30
+name = Lencho, age = 25
 
 Problem
