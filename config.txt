@@ -1,1 +1,1 @@
-name = Dradan, size = 11235, e-mail = drago@abv.bg
+name = Dradanelcho, size = 11235, e-mail = drago@abv.bg
