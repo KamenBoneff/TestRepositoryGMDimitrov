@@ -1,6 +1,10 @@
 name = Dradanelcho, size = 11235, e-mail = drago@abv.bg
-<<<<<<< HEAD
-name = Rostislav , e-mail = rostislav.kolev77@gmail.com+
-name = Vasil, vasilgn86@gmail.com
-name = Rostislav , e-mail = rostislav.kolev77@gmail.com1234
 
+
+name = Rostislav , e-mail = rostislav.kolev77@gmail.com
+name = Vasil, vasilgn86@gmail.com
+
+name = Rostislav , e-mail rostislav.kolev77@gmail.com1234
+
+name = Dradanelcho, size = 34325, e-mail = drago@abv.bg
+name = Rostislav , e-mail = rostislav.kolev77@gmail.com
